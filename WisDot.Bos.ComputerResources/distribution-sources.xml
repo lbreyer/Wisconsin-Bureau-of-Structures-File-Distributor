@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<folders>
+  <folder>
+    <name>Acrobat Scripts</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\MicroStationSettings</path>
+    <distribute_all>false</distribute_all>
+    <destination>Program Files (x86)\Adobe\Acrobat DC\Acrobat\Javascripts</destination>
+    <note>Required by C:\bos\mstation\CsAddins\PDFprinter.exe</note>
+    <files>
+      <file>
+        <path>BOSplot.js</path>
+        <active>true</active>
+        <source>C:\bos\projects\Workspaces\MicroStation\Cs Tools\PDFprinter\BOSplot.js</source>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>Axiom Config</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\MicroStationSettings</path>
+    <distribute_all>false</distribute_all>
+    <destination>Program Files (x86)\Bentley\MicroStation V8i (SELECTseries)\MicroStation\config\appl</destination>
+    <files>
+      <file>
+        <path>axiom.cfg</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>Axiom License</name>
+    <active>false</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\MicroStationSettings</path>
+    <distribute_all>false</distribute_all>
+    <destination>program files (x86)\axiom\v8\</destination>
+    <files>
+      <file>
+        <path>axiom.lic</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>Box Culvert - LFD</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\csl</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\csl</destination>
+  </folder>
+  <folder>
+    <name>Bridge Dot Utils</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\dot\utils</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\dot\utils</destination>
+  </folder>
+  <folder>
+    <name>Bridge Internal Design Programs</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\bridge\DesignPrograms</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\bridge\DesignPrograms</destination>
+  </folder>
+  <folder>
+    <name>Bridge Spreadsheets</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\bridge\spreadsheets</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\bridge\spreadsheets</destination>
+    <source>C:\bos\projects\Workspaces\Design Spreadsheets\Templates</source>
+    <files>
+      <file>
+        <path>SheetBorders.xlsm</path>
+        <active>true</active>
+        <source>C:\bos\projects\Workspaces\Design Spreadsheets\AutoDraw\SheetBorders.xlsm</source>
+        <note>Linked by bos\mstation\base\Tools.dgnlib</note>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>Bridge Spreadsheets Template (Included in Bridge Spreadsheets)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\bridge\spreadsheets\template</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\bridge\spreadsheets\template</destination>
+    <source>C:\bos\projects\Workspaces\Design Spreadsheets\Templates\template</source>
+    <files>
+      <file>
+        <path>book.xltm</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>GDDP</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\GDDP</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\Gddp</destination>
+  </folder>
+  <folder>
+    <name>GDDP Standards</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\struct_devel\aps\inserts\ins</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\gddp\std</destination>
+  </folder>
+  <folder>
+    <name>LEAP Bridge Special DGNs</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\MicroStationSettings</path>
+    <distribute_all>false</distribute_all>
+    <destination>Program Files (x86)\Bentley\LEAP Bridge Enterprise</destination>
+    <files>
+      <file>
+        <path>seed3d.dgn</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+<folder>
+    <name>LRFD SIMON</name>
+    <active>true</active>
+    <path>\\mad00fph\n4public\bos\LRFDSimon</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\bridge\designprograms\LRFD-SIMON</destination>
+  </folder>
+  <folder>
+    <name>Mathcad Template</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\Mathcad</path>
+    <distribute_all>true</distribute_all>
+    <destination>Program Files (x86)\Mathcad\Mathcad 15\template\EN</destination>
+    <note>Do not delete this folder.</note>
+    <files>
+      <file>
+        <path>Normal.xmct</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MDX Software</name>
+    <active>false</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\mdx</path>
+    <distribute_all>false</distribute_all>
+    <destination>program files (x86)\mdx software\mdx version 6.5</destination>
+    <files>
+      <file>
+        <path>license.exe</path>
+        <active>false</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MStation</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\mstation</source>
+    <note>Subfolders in this folder contain user preference files. Do not delete recursively.</note>
+    <files>
+      <file>
+        <path>bridgelstyl.rsc</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>brilstyl.rsc</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>defaultbridge.upf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>defaultdocking.xml</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>ewdotudls.rsc</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>r5combined.rsc</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>WINDOWS.RSC</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MStation Base (included in MStation)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation\base</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation\base</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\mstation\base</source>
+    <note>This folder may contain user preference files. Do not delete.</note>
+    <files>
+      <file>
+        <path>abutseng.dat</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>bos.cel</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Levels.dgnlib</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>PrintStyles.dgnlib</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Styles.dgnlib</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Tools.dgnlib</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>seed3d.dgn</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MStation Base CellSelector (included in MStation Base)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation\base\CellSelector</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation\base\CellSelector</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\mstation\base\CellSelector</source>
+    <files>
+      <file>
+        <path>Abut.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Annotation.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Barrier.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Patterns.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Piers.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Menu.cel</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Sheet1.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Sheet2.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Superstructure.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Rebar.csf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>Rehab.csf</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MStation Base Custom Shortcuts (included in MStation Base)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation\base</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation\base\CustomShortcuts</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\mstation\base\CustomShortcuts</source>
+    <note>This folder contains user preference files. Do not delete, and copy only when necessary.</note>
+  </folder>
+  <folder>
+    <name>MStation CsAddins (included in MStation)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation\CsAddins</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation\CsAddins</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\csAddins</source>
+    <note>.dll files can not be modified while the user has MicroStation open. Test before pushing supporting files!</note>
+    <files>
+      <file>
+        <path>BOSplot.exe</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>BOSprint.dll</path>
+        <active>true</active>
+        <note>Required by rebar.dll</note>
+      </file>
+      <file>
+        <path>PDFprinter.exe</path>
+        <active>true</active>
+	<note>Required by BOSplot.exe and BOSprint.dll</note>
+      </file>
+      <file>
+        <path>rebar.dll</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>RebarInputs.txt</path>
+        <active>true</active>
+        <note>Required by rebar.dll</note>
+      </file>
+      <file>
+        <path>SpreadsheetImport.dll</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MStation Macros (included in MStation)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation\macros</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation\macros</destination>
+  </folder>
+  <folder>
+    <name>MStation Inserts</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\struct_devel\aps\inserts\ins</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation\ins</destination>
+  </folder>
+  <folder>
+    <name>MStation Plot (included in MStation)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation\plot</path>
+    <distribute_all>true</distribute_all>
+    <source>C:\bos\projects\Workspaces\MicroStation\mstation\plot</source>
+    <destination>bos\mstation\plot</destination>
+  </folder>
+  <folder>
+    <name>MStation Userpref Buttons/Menus ** Do not overwrite **</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\MicroStationSettings</path>
+    <distribute_all>false</distribute_all>
+    <destination>bos\mstation\userpref</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\mstation\userpref</source>
+    <note>These are user preference files. Do not overwrite or delete!</note>
+    <files>
+      <file>
+        <path>default.btnmenu</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>funckey.mnu</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>msspell.dic</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MStation VBA (included in MStation)</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\bos\mstation\vba</path>
+    <distribute_all>true</distribute_all>
+    <destination>bos\mstation\vba</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\vba</source>
+    <files>
+      <file>
+        <path>CellSelect.mvba</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>DrawStirrup.mvba</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>TextStyle.mvba</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>MStation UCF Files</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\MicroStationSettings</path>
+    <distribute_all>false</distribute_all>
+    <destination>Program Files (x86)\Bentley\MicroStation V8i (SELECTseries)\Workspace\Users</destination>
+    <source>C:\bos\projects\Workspaces\MicroStation\users</source>
+    <note>These files are required for MicroStation to run.</note>
+    <files>
+      <file>
+        <path>bridge.ucf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>plot.ucf</path>
+        <active>true</active>
+      </file>
+      <file>
+        <path>untitled.ucf</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+  <folder>
+    <name>Permit</name>
+    <active>true</active>
+    <path>\\mad00fp1\w4bhs\Struct_Devel\APS\Distribute\LimitedDistribution\Permit</path>
+    <distribute_all>false</distribute_all>
+    <destination>windows</destination>
+    <files>
+      <file>
+        <path>permitweb.ini</path>
+        <active>true</active>
+      </file>
+    </files>
+  </folder>
+</folders>

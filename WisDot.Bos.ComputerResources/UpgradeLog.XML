@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsFormsApplicationWiBSNavigator">
+</Property><Property Name="Solution File" Value="C:\BOS\Projects\WindowsFormsApplicationWiBSNavigator\WindowsFormsApplicationWiBSNavigator.sln">
+</Property><Property Name="Date" Value="Monday, October 15, 2012">
+</Property><Property Name="Time" Value="12:10 PM">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsFormsApplicationWiBSNavigator" Source="WindowsFormsApplicationWiBSNavigator\WindowsFormsApplicationWiBSNavigator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplicationWiBSNavigator" Source="WindowsFormsApplicationWiBSNavigator\WindowsFormsApplicationWiBSNavigator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationViewBridge" Source="WindowsFormsApplicationViewBridge\WindowsFormsApplicationViewBridge.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplicationViewBridge" Source="WindowsFormsApplicationViewBridge\WindowsFormsApplicationViewBridge.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationNavigator" Source="WindowsFormsApplicationNavigator\WindowsFormsApplicationNavigator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplicationNavigator" Source="WindowsFormsApplicationNavigator\WindowsFormsApplicationNavigator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationFolderRemover" Source="WindowsFormsApplicationFolderRemover\WindowsFormsApplicationFolderRemover.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplicationFolderRemover" Source="WindowsFormsApplicationFolderRemover\WindowsFormsApplicationFolderRemover.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationFileDistributor" Source="WindowsFormsApplicationFileDistributor\WindowsFormsApplicationFileDistributor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplicationFileDistributor" Source="WindowsFormsApplicationFileDistributor\WindowsFormsApplicationFileDistributor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplicationWiBSNavigator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsFormsApplicationWiBSNavigator.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationWiBSNavigator" Source="WindowsFormsApplicationWiBSNavigator\WindowsFormsApplicationWiBSNavigator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationViewBridge" Source="WindowsFormsApplicationViewBridge\WindowsFormsApplicationViewBridge.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationNavigator" Source="WindowsFormsApplicationNavigator\WindowsFormsApplicationNavigator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationFolderRemover" Source="WindowsFormsApplicationFolderRemover\WindowsFormsApplicationFolderRemover.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplicationFileDistributor" Source="WindowsFormsApplicationFileDistributor\WindowsFormsApplicationFileDistributor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

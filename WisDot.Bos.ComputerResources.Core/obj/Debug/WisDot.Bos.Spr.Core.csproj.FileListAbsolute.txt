@@ -1,0 +1,9 @@
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\obj\Debug\WisDot.Bos.Spr.Core.Properties.Resources.resources
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\obj\Debug\WisDot.Bos.Spr.Core.csproj.GenerateResource.cache
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\obj\Debug\WisDot.Bos.Spr.Core.csproj.CoreCompileInputs.cache
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\bin\Debug\WisDot.Bos.Spr.Core.dll.config
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\bin\Debug\WisDot.Bos.Spr.Core.dll
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\bin\Debug\WisDot.Bos.Spr.Core.pdb
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\obj\Debug\WisDot.Bos.Spr.Core.dll
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\obj\Debug\WisDot.Bos.Spr.Core.pdb
+C:\Users\DOTLDB\source\repos\NET-Developer\WiBSNavigatorU\WisDot.Bos.Spr.Core\obj\Debug\WisDot.Bos.Spr.Core.csprojAssemblyReference.cache

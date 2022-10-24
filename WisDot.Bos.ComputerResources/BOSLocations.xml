@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BOS_Locations>
+  <Section Location_ID="1">
+    <Location_Name>Director's Office</Location_Name>
+    <Leader_ID>8</Leader_ID>
+  </Section>
+  <Section Location_ID="2">
+    <Location_Name>BOS Inventory</Location_Name>
+    <Leader_ID>2</Leader_ID>
+  </Section>
+  <Section Location_ID="3">
+    <Location_Name>Design</Location_Name>
+    <Leader_ID>26</Leader_ID>
+    <Unit Location_ID="4">
+      <Location_Name>Consultant Review</Location_Name>
+      <Leader_ID>17</Leader_ID>
+    </Unit>
+    <Unit Location_ID="5">
+      <Location_Name>Design- Laura</Location_Name>
+      <Leader_ID>37</Leader_ID>
+    </Unit>
+    <Unit Location_ID="6">
+      <Location_Name>Design- Dominique</Location_Name>
+      <Leader_ID>68</Leader_ID>
+    </Unit>
+  </Section>
+  <Section Location_ID="7">
+    <Location_Name>Development</Location_Name>
+    <Leader_ID>64</Leader_ID>
+    <Unit Location_ID="8">
+      <Location_Name>Automation Policy &amp; Standards</Location_Name>
+      <Leader_ID>28</Leader_ID>
+    </Unit>
+    <Unit Location_ID="9">
+      <Location_Name>Bridge Management</Location_Name>
+      <Leader_ID>74</Leader_ID>
+    </Unit>
+  </Section>
+  <Section Location_ID="10">
+    <Location_Name>Maintenance</Location_Name>
+    <Leader_ID>42</Leader_ID>
+    <Unit Location_ID="11">
+      <Location_Name>Fabrication</Location_Name>
+      <Leader_ID>11</Leader_ID>
+    </Unit>
+    <Unit Location_ID="12">
+      <Location_Name>Inspection</Location_Name>
+      <Leader_ID>18</Leader_ID>
+    </Unit>
+  </Section>
+</BOS_Locations>

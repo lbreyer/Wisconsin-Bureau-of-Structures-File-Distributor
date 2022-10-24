@@ -1,0 +1,14 @@
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.csprojAssemblyReference.cache
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.csproj.GenerateResource.cache
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.csproj.CoreCompileInputs.cache
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.csproj.CopyComplete
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\bin\Debug\WisDot.Bos.ComputerResources.FileDistributor.exe.config
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\bin\Debug\WisDot.Bos.ComputerResources.FileDistributor.exe
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\bin\Debug\WisDot.Bos.ComputerResources.FileDistributor.pdb
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.Properties.Resources.resources
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.exe
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.pdb
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\bin\Debug\WisDot.Bos.ComputerResources.Core.dll
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\bin\Debug\WisDot.Bos.ComputerResources.Core.pdb
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\bin\Debug\WisDot.Bos.ComputerResources.Core.dll.config
+C:\Users\DOTLDB\source\repos\WisDot.Bos.ComputerResources\WisDot.Bos.ComputerResources.FileDistributor\obj\Debug\WisDot.Bos.ComputerResources.FileDistributor.DistributionView.resources
