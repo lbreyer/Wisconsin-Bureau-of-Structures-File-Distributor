@@ -1,6 +1,8 @@
 # Wisconsin-Bureau-of-Structures-File-Distributor
 The Bureau of Structures (BOS) in-house tool for distributing, modifying, and maintaining software and project files.
 
+Functionality Demo: https://www.youtube.com/watch?v=b9g3hBh7ins&ab_channel=LukeBreyer
+
 Project Description:
 
 The Wisconsin Department of Transportation’s (WisDOT) Bureau of Structures must constantly update and maintain a large inventory of computer resources for use by employees in the service of various department projects. A significant part of this process is updating and deploying the appropriate software to employee computers. The Bureau of Structures has a number of applications that fill this role, and this particular application, the WiBS File Distributor, is used primarily for deploying project and team specific files to applicable members.
